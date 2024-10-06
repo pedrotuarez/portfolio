@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0acf6fdb.css",
+    "main.js": "/portfolio/static/js/main.698880d0.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/hero-image-customers.jpg": "/portfolio/static/media/hero-image-customers.08b884a51a0e577f3450.jpg",
+    "static/media/Raleway-Regular.ttf": "/portfolio/static/media/Raleway-Regular.c15b0bf7b86f34335251.ttf",
+    "static/media/Raleway-Bold.ttf": "/portfolio/static/media/Raleway-Bold.757abe402eb07a0ab739.ttf",
+    "static/media/hero-image-home.jpg": "/portfolio/static/media/hero-image-home.02fd2a0a4a8ea111dbfd.jpg",
+    "static/media/photoportfolio.jpg": "/portfolio/static/media/photoportfolio.9bfdc3a4d7239f16b859.jpg",
+    "static/media/portafolio-05.jpg": "/portfolio/static/media/portafolio-05.1a6084797c3c2fe9e588.jpg",
+    "static/media/portafolio-04.jpg": "/portfolio/static/media/portafolio-04.735447777a4252e56001.jpg",
+    "static/media/customer-01.jpg": "/portfolio/static/media/customer-01.c711156faf9115b2e6eb.jpg",
+    "static/media/customer-03.jpg": "/portfolio/static/media/customer-03.275c393b3267dba39548.jpg",
+    "static/media/customer-02.jpg": "/portfolio/static/media/customer-02.8e9435bda47bd4f1a0e6.jpg",
+    "static/media/customer-04.jpg": "/portfolio/static/media/customer-04.e883bf3ad55718d26fba.jpg",
+    "static/media/portafolio-01.jpg": "/portfolio/static/media/portafolio-01.b04029bd9289133dff63.jpg",
+    "static/media/portafolio-03.jpg": "/portfolio/static/media/portafolio-03.9eacf69879ba7457f50d.jpg",
+    "static/media/portafolio-02.jpg": "/portfolio/static/media/portafolio-02.d12daddf278668b1919c.jpg",
+    "static/media/portafolio-06.jpg": "/portfolio/static/media/portafolio-06.b96c67d55c545e70876e.jpg",
+    "index.html": "/portfolio/index.html",
+    "static/media/loader.svg": "/portfolio/static/media/loader.271fc4ca5fb0c0e73a30b791bf078945.svg",
+    "main.0acf6fdb.css.map": "/portfolio/static/css/main.0acf6fdb.css.map",
+    "main.698880d0.js.map": "/portfolio/static/js/main.698880d0.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0acf6fdb.css",
+    "static/js/main.698880d0.js"
+  ]
+}
